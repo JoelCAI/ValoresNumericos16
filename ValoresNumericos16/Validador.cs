@@ -23,7 +23,7 @@ namespace ValoresNumericos16
 
             if (ok)
             {
-                Console.WriteLine("\n La cadena" + " *" + str1 + "*" + " Es un número y es: " + "*" + nuevoUno + "*");
+                Console.WriteLine("\n La cadena" + " *" + str1 + "*" + " Es un número Entero y es: " + "*" + nuevoUno + "*");
 
             }
             else if (okDos)
@@ -48,6 +48,7 @@ namespace ValoresNumericos16
 
         }
 
+      
 
         public static void Despedida()
         {
